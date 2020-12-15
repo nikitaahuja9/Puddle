@@ -10,5 +10,9 @@ Users can:
 7) Access other members' social media accounts.
 8) Adjust notification preferences, account settings and social media links.
 
+
+<img src="https://github.com/nikitaahuja9/Puddle/blob/main/Puddle%20main%20screen.jpeg" width="200" height="400">
+
+
 Request full source code:
 📫 nikita.ahuja40@gmail.com
